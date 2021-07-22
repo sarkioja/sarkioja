@@ -24,4 +24,4 @@ Hi! I am Renan Cunha.
 I am a FrontEnd developer 💻.
 
 - 🚀 I’m currently working at **[Gendo](https://www.gendo.com.br/)**.
-- 👨🏻‍💻 React, ReactNative and AngularJS.
+- 👨🏻‍💻 React, VanillaJS and AngularJS.
